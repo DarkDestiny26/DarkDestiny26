@@ -1,20 +1,15 @@
-## Hi there 👋
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>Number of people mogged:</p>
   <img src="https://profile-counter.glitch.me/DarkDestiny26/count.svg" alt="Visitor's Count" />
 </div>
 
-<!--
-**DarkDestiny26/DarkDestiny26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/DarkDestiny26/DarkDestiny26/blob/main/mewing-cat.gif" alt="Banner of a developer sitting in front of a desk">
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Shut+up+I'm+mewing" alt="Typing SVG" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
